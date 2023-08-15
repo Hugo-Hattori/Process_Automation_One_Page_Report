@@ -1,4 +1,4 @@
-# RPA One Page Report
+# Process Automation One Page Report
 
 ## Project Scenario Description
 <p>Working in a chain of clothing stores with over 25 outlets in Brazil. Every morning
@@ -10,7 +10,7 @@ store management team to understand how their individual store is performing in
 comparison to all other stores in the chain and if the yearly or daily goal was achieved.</p>
 
 ## Project's Objective
-<p>As a Data Analyst, the objective here is to create a Process Automation (RPA) to calculate
+<p>As a Data Analyst, the objective here is to create a Process Automation to calculate
 the One Page Report of each individual store and send an e-mail to the respective store manager
 containing the One Page Report and a file containing all the details of their performance
 during that period of time.</p>
